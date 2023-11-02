@@ -1,0 +1,3 @@
+[submodule "my_wordpress_theme"]
+	path = my_wordpress_theme
+	url = https://github.com/konstantin-agafonov/my_wordpress_theme
